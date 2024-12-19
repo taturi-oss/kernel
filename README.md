@@ -1,2 +1,0 @@
-# kernel
-A lightweight Kernel
